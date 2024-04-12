@@ -1,0 +1,104 @@
+symbol,formattedExchange,qty,totalPLPercentChange,stockPrice,changeToday,ta1MinuteText,ta1DMinuteText,zacksRank
+ZYXI,NASDAQ,1,5.00%,19.95,-8.23%,Sell,Buy,1
+XSW,AMEX,1,-4.79%,95.19,-5.70%,Sell,Buy,1
+XSD,AMEX,1,-2.01%,100.1,-2.59%,Sell,Strong Buy,1
+XNTK,AMEX,1,-0.73%,87.04,-2.43%,Sell,Buy,1
+XLK,AMEX,1,-1.65%,92.54,-3.01%,Sell,Buy,1
+W,NYSE,1,-2.16%,181.99,-4.35%,Sell,Buy,1
+VUG,AMEX,1,-2.04%,180.09,-3.33%,Sell,Buy,1
+VRTX,NASDAQ,1,0.74%,274.01,-3.95%,Sell,Buy,1
+VOT,AMEX,1,-1.99%,147.56,-3.35%,Sell,Buy,1
+VOOG,AMEX,1,-1.08%,170.21,-2.26%,Sell,Buy,1
+VONG,NASDAQ,1,-0.82%,179.15,-2.19%,Sell,Buy,1
+VIRT,NASDAQ,1,-1.86%,23.75,-2.42%,Sell,Sell,1
+VGT,AMEX,1,-1.93%,245,-3.22%,Sell,Buy,1
+UBX,NASDAQ,1,-5.36%,6.89,-4.31%,Strong Sell,Buy,1
+TWST,NASDAQ,1,-0.26%,38.9,-0.79%,Sell,Buy,1
+TWLO,NYSE,1,3.78%,187.2,0.32%,Sell,Buy,1
+TW,NASDAQ,1,0.20%,58.74,-2.00%,Buy,Buy,1
+TPTX,NASDAQ,1,-3.21%,52.74,-4.49%,Sell,Buy,1
+STKL,NASDAQ,1,15.11%,3.81,9.48%,Buy,Buy,1
+SPYG,AMEX,1,-0.90%,40.96,-2.10%,Sell,Buy,1
+SPWH,NASDAQ,1,2.89%,7.84,0.26%,Sell,Buy,1
+SOXX,NASDAQ,1,-2.86%,232.14,-3.60%,Strong Sell,Buy,1
+SMH,NASDAQ,1,-3.27%,131.25,-4.00%,Sell,Buy,1
+SMG,NYSE,1,0.39%,140,1.54%,Strong Sell,Buy,2
+SJM,NYSE,1,0.02%,116.1,-0.68%,Sell,Buy,2
+SFM,NASDAQ,1,0.63%,25.64,-3.32%,Sell,Buy,1
+SCHG,AMEX,1,-1.04%,92.05,-2.22%,Sell,Buy,1
+QTEC,NASDAQ,1,-2.20%,95.5,-2.94%,Sell,Buy,1
+QQQ,NASDAQ,1,-1.56%,220.05,-3.01%,Sell,Buy,1
+QK,NASDAQ,1,0.00%,12.6,0.00%,Strong Buy,Buy,1
+QDEL,NASDAQ,1,-3.47%,182.53,-12.64%,Sell,Buy,1
+PSTI,NASDAQ,1,-1.44%,9.6,0.31%,Strong Sell,Buy,1
+PSN,NYSE,1,2.95%,39.43,0.20%,Sell,Buy,3
+PSJ,AMEX,1,-0.11%,104.5,-1.43%,Sell,Buy,1
+PSI,AMEX,1,-1.56%,64.84,-2.64%,Strong Sell,Strong Buy,1
+PS,NASDAQ,1,1.16%,18.3,-1.19%,Strong Sell,Buy,1
+PRVL,NASDAQ,1,8.46%,17.56,3.35%,Strong Sell,Buy,1
+PROF,NASDAQ,1,-1.03%,13.44,0.15%,Sell,Strong Buy,3
+PHI,NYSE,1,0.46%,24,3.76%,Buy,Buy,3
+PFSW,NASDAQ,1,10.39%,5.95,1.36%,Buy,Buy,1
+PDLI,NASDAQ,1,1.16%,3.49,-3.86%,Strong Sell,Buy,3
+OSUR,NASDAQ,1,-3.35%,17,-4.87%,Sell,Buy,2
+MX,NYSE,1,-3.49%,10.79,-2.62%,Sell,Sell,3
+MUSA,NYSE,1,-5.20%,109,-3.31%,Sell,Buy,2
+MTSI,NASDAQ,1,-0.48%,30.84,-0.48%,Sell,Buy,1
+MSEX,NASDAQ,1,-1.04%,61.15,-1.00%,Sell,Buy,1
+MRNA,NASDAQ,1,5.00%,62.74,-6.22%,Strong Sell,Buy,2
+MKTX,NASDAQ,1,0.67%,494.25,-2.14%,Sell,Buy,1
+MGK,AMEX,1,-1.74%,145.96,-3.09%,Sell,Buy,1
+LPTH,NASDAQ,1,-1.28%,2.31,-4.55%,Buy,Buy,1
+LOGI,NASDAQ,1,3.39%,51.87,1.51%,Sell,Buy,1
+LMNX,NASDAQ,1,2.84%,34.75,0.84%,Sell,Buy,1
+LJPC,NASDAQ,1,0.68%,7.45,1.92%,Strong Sell,Buy,1
+KZR,NASDAQ,1,0.00%,6.25,-0.32%,Sell,Buy,1
+KRTX,NASDAQ,1,-5.39%,79,-6.19%,Sell,Sell,2
+KNSA,NASDAQ,1,-1.17%,21.15,-5.28%,Sell,Strong Buy,1
+JKK,AMEX,1,-1.72%,196.65,-2.97%,Sell,Buy,1
+JKH,AMEX,1,-0.69%,263.5,-2.05%,Sell,Buy,1
+IYW,AMEX,1,-0.78%,240.54,-2.05%,Sell,Buy,1
+IWY,AMEX,1,-1.61%,96.03,-2.99%,Sell,Buy,1
+IWP,AMEX,1,-1.22%,143.25,-2.28%,Sell,Buy,1
+IWF,AMEX,1,-1.71%,172.71,-3.02%,Sell,Buy,1
+IVW,AMEX,1,-0.94%,189.19,-2.04%,Sell,Buy,1
+IUSG,NASDAQ,1,-0.97%,65.52,-2.24%,Sell,Buy,1
+INVA,NASDAQ,1,-5.04%,13,-8.45%,Sell,Buy,1
+IGV,AMEX,1,-0.91%,250.73,-2.85%,Sell,Buy,1
+IFRX,NASDAQ,1,7.38%,8,0.50%,Sell,Buy,1
+IDCC,NASDAQ,1,-9.82%,53.83,-5.66%,Sell,Buy,2
+HAIN,NASDAQ,1,5.04%,31.29,3.20%,Sell,Buy,1
+GO,NASDAQ,1,-0.29%,37.5,2.26%,Buy,Buy,1
+GNMK,NASDAQ,1,-1.89%,11.95,-5.98%,Sell,Buy,1
+GFI,NYSE,1,-2.35%,7.91,0.51%,Sell,Buy,1
+GCAP,NYSE,1,3.72%,6.7,3.40%,Buy,Buy,1
+FXL,AMEX,1,-0.18%,72.42,-1.95%,Strong Sell,Buy,1
+FULC,NASDAQ,1,-7.88%,14.74,-16.01%,Sell,Strong Buy,1
+FTXL,NASDAQ,1,-1.25%,38.72,-1.60%,Sell,Strong Buy,1
+FTEC,AMEX,1,-2.30%,72.08,-3.64%,Sell,Buy,1
+FLWS,NASDAQ,1,1.56%,22.75,1.65%,Sell,Buy,1
+EQX,AMEX,1,-5.90%,8.45,-0.82%,Buy,Buy,1
+EHTH,NASDAQ,1,1.58%,117.5,-5.58%,Sell,Buy,1
+EA,NASDAQ,1,-1.46%,115.08,-1.95%,Sell,Buy,2
+CTMX,NASDAQ,1,1.83%,14.5,0.28%,Sell,Buy,2
+CSTL,NASDAQ,1,14.36%,36.88,13.48%,Sell,Buy,1
+CODX,NASDAQ,1,8.45%,17.32,1.58%,Strong Sell,Buy,3
+CLX,NYSE,1,0.49%,205.5,-0.15%,Sell,Buy,1
+CGEN,NASDAQ,1,-3.77%,14.82,-4.88%,Sell,Buy,3
+CBPO,NASDAQ,1,-1.45%,108.4,-1.15%,Sell,Sell,1
+CALM,NASDAQ,1,-2.28%,43.23,0.64%,Sell,Buy,1
+BWXT,NYSE,1,-4.18%,55.74,-4.51%,Sell,Buy,1
+BTG,AMEX,1,-4.19%,5.26,0.96%,Sell,Buy,1
+BSTC,NASDAQ,1,-2.07%,56.3,-3.55%,Sell,Buy,1
+BJ,NYSE,1,0.71%,28.2,-0.18%,Strong Sell,Buy,1
+BGS,NYSE,1,13.23%,23.8,10.39%,Strong Buy,Buy,1
+BAND,NASDAQ,1,-0.02%,107.56,-2.13%,Sell,Buy,1
+AU,NYSE,1,-3.36%,25.59,1.59%,Buy,Buy,1
+ATXI,NASDAQ,1,-2.06%,9.5,-2.76%,Sell,Buy,1
+ATHX,NASDAQ,1,5.46%,3.09,-5.50%,Sell,Buy,2
+ARAV,NASDAQ,1,12.81%,13.47,-5.80%,Sell,Buy,3
+AMCR,NYSE,1,2.47%,9.11,3.17%,Sell,Buy,1
+ALBO,NASDAQ,1,0.15%,25.89,-2.82%,Sell,Buy,3
+AHCO,NASDAQ,1,-0.30%,16.45,2.36%,Buy,Buy,3
+AGI,NYSE,1,-0.85%,8.19,3.28%,Sell,Buy,2
+AEYE,NASDAQ,1,9.88%,8.79,8.92%,Sell,Buy,1
